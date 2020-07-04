@@ -41,3 +41,15 @@ $ python manage.py createsuperuser
 $ python manage.py runserver
 ```
 
+## Create Dummy Data in database -
+### Open django shell
+```sh
+$ python manage.py shell
+```
+### Run this script
+```sh
+from user.utils import create_dummy_activity_periods
+create_dummy_activity_periods()
+```
+This will create dummy data.
+

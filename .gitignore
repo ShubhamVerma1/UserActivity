@@ -1,0 +1,19 @@
+# Environment
+venv/
+.envrc
+
+# Linux
+*.swp
+*.tmp
+
+### Django ###
+*.log
+*.pyc
+__pycache__
+*.sqlite3
+
+## static files ##
+credy/static/rest_framework_swagger/
+credy/static/admin/
+credy/static/rest_framework/
+

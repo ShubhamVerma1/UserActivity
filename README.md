@@ -53,3 +53,9 @@ create_dummy_activity_periods()
 ```
 This will create dummy data.
 
+
+
+### APIs documentation - 
+#### User APIs -
+See [README.md](https://github.com/ShubhamVerma1/UserActivity/blob/master/activity/user/v1/README.md)
+
